@@ -27,10 +27,7 @@ This project is deployed and can be accessed at  https://orebishopping.reactbd.c
 
    Open your browser and navigate to http://localhost:3000 to view the application.
 
-   ## Contributing
-
-   Contributions are welcome! Please fork the repository and submit a pull request.
-
+   
 
 
 
