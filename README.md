@@ -38,7 +38,7 @@ Start the server:
    Start the server:
    npm start
 
-   Open your browser and navigate to "http://localhost:3000" to view the application.
+   Open your browser and navigate to http://localhost:3000 to view the application.
 
    ## Contributing
 
