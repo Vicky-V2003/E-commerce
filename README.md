@@ -17,7 +17,7 @@ This repository contains the code for my E-commerce project. It includes both fr
 
 ## Deployment
 
-This project is deployed and can be accessed at  https://orebishopping.reactbd.com/
+This project is deployed and can be accessed at  https://orebishopping.vercel.app/
 
  ## Usage
    cd E-commerce
