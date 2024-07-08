@@ -13,16 +13,15 @@ This repository contains the code for my E-commerce project. It includes both fr
    To run this project locally, clone the repository and install dependencies using npm:
 
    git clone https://github.com/Vicky-V2003/E-commerce.git
-   cd E-commerce
-   npm install
-   
+  
 
 ## Deployment
 
 This project is deployed and can be accessed at  https://orebishopping.reactbd.com/
 
  ## Usage
-
+   cd E-commerce
+   npm install
    Start the server:
    npm start
 
