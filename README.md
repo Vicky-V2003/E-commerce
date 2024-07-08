@@ -16,6 +16,23 @@ This repository contains the code for my E-commerce project. It includes both fr
    cd E-commerce
    npm install
    
+
+## Deployment
+
+This project is deployed and can be accessed at  https://orebishopping.reactbd.com/
+
+## Usage
+
+Start the server:
+
+
+
+## Usage
+
+Start the server:
+
+
+   
    ## Usage
 
    Start the server:
