@@ -1,4 +1,4 @@
- E-commerce Project
+ E-commerce Project:
 This repository contains the code for my E-commerce project. It includes both frontend and backend components.
 
    ## Technologies Used
@@ -21,19 +21,7 @@ This repository contains the code for my E-commerce project. It includes both fr
 
 This project is deployed and can be accessed at  https://orebishopping.reactbd.com/
 
-## Usage
-
-Start the server:
-
-
-
-## Usage
-
-Start the server:
-
-
-   
-   ## Usage
+ ## Usage
 
    Start the server:
    npm start
